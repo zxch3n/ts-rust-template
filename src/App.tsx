@@ -1,12 +1,12 @@
 import { useEffect, useState } from 'react';
-import { calc, init } from './wasmEntry';
+import { sumOfSquares, init } from './wasmEntry';
 
 function App() {
   const [count, setCount] = useState(0);
   useEffect(() => {
     (async () => {
       await init();
-      console.log(await calc());
+      console.log(sumOfSquares(1, 2));
     })();
   }, []);
 

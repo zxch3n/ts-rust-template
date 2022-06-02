@@ -1,4 +1,4 @@
-# ts-boilerplate
+# ts-rust-boilerplate
 
 [![codecov](https://codecov.io/gh/zxch3n/ts-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/zxch3n/ts-boilerplate)
 

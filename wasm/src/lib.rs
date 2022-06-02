@@ -1,3 +1,4 @@
+mod linked_list;
 extern crate wasm_bindgen;
 use wasm_bindgen::prelude::*;
 
