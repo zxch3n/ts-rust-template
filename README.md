@@ -1,6 +1,6 @@
-# ts-rust-boilerplate
+# [[repo]]
 
-[![codecov](https://codecov.io/gh/zxch3n/ts-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/zxch3n/ts-boilerplate)
+[![codecov](https://codecov.io/gh/[[user]]/[[repo]]/branch/master/graph/badge.svg)](https://codecov.io/gh/[[user]]/[[repo]])
 
 This template is used to build library that will be published to npm and deno.land.
 
